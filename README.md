@@ -33,12 +33,6 @@ pip install -r requirements.txt
 # 2. Run the full pipeline
 python src/fraud_detector.py
 
-# 3. Study interview answers
-python src/interview_qa.py
-
-# 4. Optional: real Kaggle dataset
-# Download from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-# Place creditcard.csv in data/ and uncomment the load_csv() call in fraud_detector.py
 ```
 
 ---
