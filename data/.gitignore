@@ -1,0 +1,7 @@
+# Ignore the real Kaggle dataset (too large for Git)
+creditcard.csv
+*.zip
+
+# Keep sample and README
+!sample.csv
+!README.md

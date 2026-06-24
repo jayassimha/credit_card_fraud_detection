@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (too large for Git — see data/README.md)
+data/creditcard.csv
+data/*.zip
+
+# Saved models (regenerate with: python models/save_models.py)
+models/*.pkl
+
+# Reports output
+reports/figures/
+reports/results.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
