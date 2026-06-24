@@ -3,7 +3,6 @@
 
 > **Tech stack:** Python · scikit-learn · XGBoost · imbalanced-learn (SMOTE) · Isolation Forest · Autoencoder (PyTorch)  
 > **Dataset:** Kaggle Credit Card Fraud Detection — 284,807 transactions, 0.17% fraud  
-> **Build time:** ~2 weeks | **Difficulty:** Intermediate
 
 ---
 
